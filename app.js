@@ -33,5 +33,5 @@ app.get('/',(req,res)=>{
 })
 
 server.listen(PORT,()=>{
-    console.log("it's working")
+    console.log("it's working");
 })
